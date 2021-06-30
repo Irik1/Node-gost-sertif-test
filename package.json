@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@fidm/x509": "^1.2.1",
+    "@lapo/asn1js": "^1.2.1",
+    "@wavesenterprise/crypto-gost-js": "^2.1.0-RC1",
+    "atob": "^2.1.2",
+    "crypto-gost": "^1.0.14",
+    "crypto-js": "^4.0.0",
+    "docx-pdf": "0.0.1",
+    "js-x509-utils": "^1.0.2",
+    "jsencrypt": "^3.1.0",
+    "jsrsasign": "^10.2.0",
+    "jsrsasign-util": "^1.0.4",
+    "node-crypto-gost": "^1.0.1",
+    "node-forge": "^0.10.0",
+    "node-gost": "^1.0.2",
+    "node-gost-crypto": "^1.0.2",
+    "pkijs": "^2.1.94",
+    "x509.js": "^1.0.0"
+  }
+}
