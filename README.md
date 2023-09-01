@@ -1,2 +1,2 @@
 # Node-gost-sertif-test
-Тестирование библиотеки node-gost, позволяющей создавать сертификаты алгоритмов шифрования ГОСТ и подписывать с их помощью данные
+Testing the node-gost library, which allows you to create certificates of GOST encryption algorithms and sign data with their help
